@@ -1,6 +1,6 @@
 <!--  <img align="right" width="100px" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="" srcset="">  -->
 <h1 align="center">Hi 👋, I'm MEHEDI HASAN SAIKAT</h1>
-<h3 align="center">A passionate Software Developer (Frontend-React.js) from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer (Frontend-React.js) from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-h-saikat&label=Profile%20views&color=0e75b6&style=flat" alt="m-h-saikat" /> </p>
 
@@ -8,8 +8,9 @@
 
 - 🌱 I’m currently learning **Redux Toolkit & Tailwind**
 
-- 💻 I’m currently working in **Bluebay IT Limited** as a **Software Developer (Frontend-React.js)** since **1st September,2021**
+- 💻 I’m currently working in **Bluebay IT Limited** as a **Software Engineer (Frontend-React.js)** since **1st December,2021**
 
+- 📄 Know about my experiences [Resume of Mehedi Hasan Saikat](https://drive.google.com/file/d/1A1dhKyqwSQ9q5OuLJHCS_Gcn3zRltuHW/view?usp=sharing)
 
 - 🤝 I’m looking for help with [React,Javascript,Redux](#)
 
@@ -20,7 +21,6 @@
 
 - 📫 How to reach me **saikat.itbd@gmail.com**
 
-- 📄 Know about my experiences [Resume of Mehedi Hasan Saikat](https://drive.google.com/file/d/1A1dhKyqwSQ9q5OuLJHCS_Gcn3zRltuHW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
