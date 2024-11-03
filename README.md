@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-h-saikat&label=Profile%20views&color=0e75b6&style=flat" alt="m-h-saikat" /> </p>
 
-- 💻 Contribution in  **Application Development & Enterprice System Team at BRAC Bank PLC ** [Gitlab: m-h-saikat](https://gitlab.com/m-h-saikat)
+- 💻 Contribution in  **Application Development & Enterprice System Team at BRAC Bank PLC** [Gitlab: m-h-saikat](https://gitlab.com/m-h-saikat)
 
 - 🌱 I’m currently learning **Angular**
 
-- 💻 I’m currently working in **BRAC Bank PLC** as a **Officer,Frontend Developer inApplication Development & Enterprice System Team** since **3rd November,2024**
+- 💻 I’m currently working in **BRAC Bank PLC** as a **Officer,Frontend Developer in Application Development & Enterprice System Team** since **3rd November,2024**
 
 - 📄 Know about my experiences [Resume of Mehedi Hasan Saikat](https://drive.google.com/file/d/1A1dhKyqwSQ9q5OuLJHCS_Gcn3zRltuHW/view?usp=sharing)
 
