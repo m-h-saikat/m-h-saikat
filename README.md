@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-h-saikat&label=Profile%20views&color=0e75b6&style=flat" alt="m-h-saikat" /> </p>
 
-- 💻 Contribution in  **Astha, Digital Onboarding & Service Platform Team ,Application Development & Management at BRAC Bank PLC** [Gitlab: m-h-saikat](https://gitlab.com/m-h-saikat)
+- 💻 Contribution in  **Astha, Digital Onboarding & Service Platform, Application Development & Management at BRAC Bank PLC**
 
 - 🌱 I’m currently learning **Angular**
 
