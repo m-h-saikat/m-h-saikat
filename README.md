@@ -90,14 +90,7 @@ Strong expertise in modern JavaScript ecosystems, frontend architecture, API int
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=m-h-saikat&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-h-saikat&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
