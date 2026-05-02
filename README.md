@@ -94,8 +94,11 @@ Strong expertise in modern JavaScript ecosystems, frontend architecture, API int
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-h-saikat&hide_border=true)
-
+<a href="https://drive.google.com/file/d/131VikbHAAZ5_V9Ofp0r-5BXC9Gs8v-Mj/view?usp=sharing" 
+   target="_blank" 
+   style="text-decoration: none;">
+   📄 View Full Resume
+</a>
 </div>
 
 ---
