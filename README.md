@@ -108,7 +108,7 @@ To build a strong, growth-oriented career as a **Software Engineer specializing 
 
 <div align="center">
 
-📄 **[View Full Resume](https://drive.google.com/file/d/1A1dhKyqwSQ9q5OuLJHCS_Gcn3zRltuHW/view?usp=sharing)**
+📄 **[View Full Resume]([https://drive.google.com/file/d/1A1dhKyqwSQ9q5OuLJHCS_Gcn3zRltuHW/view?usp=sharing](https://drive.google.com/file/d/131VikbHAAZ5_V9Ofp0r-5BXC9Gs8v-Mj/view?usp=sharing))**
 
 *Open to opportunities in Enterprise Software Engineering & Frontend Development*
 
