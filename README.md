@@ -92,14 +92,7 @@ Strong expertise in modern JavaScript ecosystems, frontend architecture, API int
 
 
 
-<div align="center">
 
-<a href="https://drive.google.com/file/d/131VikbHAAZ5_V9Ofp0r-5BXC9Gs8v-Mj/view?usp=sharing" 
-   target="_blank" 
-   style="text-decoration: none;">
-   📄 View Full Resume
-</a>
-</div>
 
 ---
 
