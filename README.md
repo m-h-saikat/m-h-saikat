@@ -27,19 +27,28 @@ Strong expertise in modern JavaScript ecosystems, frontend architecture, API int
 **Application Development & Management | Technology **
 `November 2024 – Present`
 
-- Contributing to **Digital Onboarding** — BRAC Bank's digital banking platform
-- Building and maintaining **Digital Onboarding & Service Platform** for customer acquisition
-- Developing secure, scalable frontend modules for **Application Development & Management** systems
-- Implementing performance-optimized, accessible UI components aligned with banking compliance standards
-- Collaborating with cross-functional teams using **Jira** for agile project management
+- Contributed to the development of **Digital Onboarding (E-KYC)** platform, improving application completion rates and banking operational efficiency  
+- Implemented **KYC-based identity verification** and fraud prevention features ensuring data accuracy and regulatory compliance  
+- Developed **Role-Based Access Control** for secure and controlled multi-user system access  
+- Built **application recovery feature** enabling support teams to resume incomplete applications and improve onboarding efficiency  
+- Developed **multi-step onboarding workflows** using **Angular** and **RxJS** for better user experience and form handling  
+- Integrated **JWT authentication** with route guards and HTTP interceptors for secure session and route management  
+- Designed **mobile-first, responsive, and multilingual UI** for improved accessibility across user groups  
+- Applied **lazy loading** and modular architecture to enhance performance and system scalability  
+- Followed **secure coding practices** to reduce vulnerabilities and ensure system stability post-deployment  
 
 ### 💼 Bluebay IT Limited — Frontend Software Engineer
 `January 2022 – October 2024`
 
-- Contributed to responsive and scalable web applications across multiple client projects
-- Developed reusable component libraries and frontend architecture patterns
-- Integrated RESTful APIs and managed application state using Redux
-- Delivered production-ready features on schedule in agile development environments
+- Developed scalable frontend applications using **React.js, Angular, Redux, and TypeScript**  
+- Built responsive UI ensuring consistent user experience across devices  
+- Created reusable UI components using **Material UI, Bootstrap, Tailwind CSS, and React Hook Form**  
+- Integrated **REST APIs using Axios and Postman** for smooth data flow  
+- Implemented **Redux** for efficient state management and improved application performance  
+- Collaborated with backend and UI/UX teams for timely feature delivery  
+- Contributed to **BAIRA Management System** by automating workflows and improving data accuracy  
+- Developed **multi-vendor e-commerce platforms, HR systems, and agency websites**  
+- Improved performance through **refactoring, bug fixing, and optimization** for faster load times  
 
 ---
 
@@ -106,6 +115,5 @@ To build a strong, growth-oriented career as a **Software Engineer specializing 
 
 📄 [View Full Resume](https://drive.google.com/file/d/131VikbHAAZ5_V9Ofp0r-5BXC9Gs8v-Mj/view?usp=sharing)
 
-*Open to opportunities in Enterprise Software Engineering & Frontend Development*
-
+*Open to opportunities in **Frontend Development & Software Engineering**, building scalable and high-performance solutions.*
 </div>
